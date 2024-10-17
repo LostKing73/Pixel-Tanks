@@ -1,6 +1,6 @@
 window.sourceMap = {
   fail: 'data',
-  host: 'https://cs6413110.github.io/Pixel-Tanks/public/images',
+  host: 'https://LostKing73.github.io/Pixel-Tanks/public/images',
   map: [ // image loading
     {
       ref: 'blocks', // property stored as on PixelTanks.images
